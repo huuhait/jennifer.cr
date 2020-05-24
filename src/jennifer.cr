@@ -1,4 +1,3 @@
-require "ecr"
 require "json"
 require "inflector"
 require "ifrit/converter"
